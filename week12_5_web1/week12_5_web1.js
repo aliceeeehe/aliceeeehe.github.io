@@ -19,6 +19,7 @@ function draw() {
     text("Choice 1", 50, 50);
     text("Choice 2", 50, 100);
     text("Choice 3", 50, 150);
+    text("中餐吃牛排",50,200);
 }
 
 function mousePressed() {
