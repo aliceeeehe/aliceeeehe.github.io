@@ -20,9 +20,9 @@ function draw() {
         rect(50, 200, 150, 2);
     if (choice == 4)
         rect(50, 250, 150, 2);
-    text("Choice 1", 50, 50);
-    text("Choice 2", 50, 100);
-    text("Choice 3", 50, 150);
+    text("中餐吃泡麵", 50, 50);
+    text("中餐吃Uber Eats", 50, 100);
+    text("中餐吃foodpanda", 50, 150);
     text("中餐吃牛排",50,200);
     text("中餐吃大餐",50,250);
 }
